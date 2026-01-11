@@ -1,0 +1,68 @@
+
+.nav-pills .nav-link.active{
+    background-color: #2d3728;
+    color: #ffffff;
+}
+.nav-pills .nav-link{
+    color: #ffffff;
+}
+.container{
+    background-color: #2d3728;
+}
+.mybackg{
+    background-color: #2d3728;
+    color: #ffffff;
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-container img{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.d-block{
+    border-radius: 50%;
+}
+.skills-container{
+    color: #ffffff;
+    display: grid;
+    grid-template-rows: 0.5fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    width: 50%;
+    text-align: left;
+    row-gap: 2rem;
+    
+}
+
+div{
+    display: block;
+}
+.footer-link{
+    color: #ffffff;
+}
+.footer-link:hover{
+    color: #2d3728;
+}
+.footer-end{
+    color: #ffffff;
+}
+
+h1{
+    color: #ffffff;
+    font-family: "libre baskerville";
+}
+p{
+    color: #ffffff;
+    font-family: "libre baskerville";
+}
+    
+body{
+    background-color: #2d3728;
+    text-align: center;
+}
